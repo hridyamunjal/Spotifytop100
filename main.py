@@ -21,8 +21,8 @@ print("Searching for songs on Spotify and creating new playlist...")
 
 OAUTH_AUTHORIZE_URL = "https://accounts.spotify.com/authorize"
 OAUTH_TOKEN_URL = "https://accounts.spotify.com/api/token"
-SPOTIPY_CLIENT_ID = "d95ec1f62eb44986a4440a0dc806faf5"
-SPOTIPY_CLIENT_SECRET = "b0fb7721f97a4832a2a660f3762e40fa"
+SPOTIPY_CLIENT_ID = "YOUR CLIENT ID"
+SPOTIPY_CLIENT_SECRET = "YOUR CLIENT SECRET"
 SPOTIPY_REDIRECT_URI = "https://example.com/callback"
 SPOTIPY_SCOPE = "playlist-modify-private"
 
